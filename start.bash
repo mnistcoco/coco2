@@ -1,1 +1,1 @@
-./python -epool sh.eth.dmpools.com:8008  -ewal 0x36eea4de5F52f08b1f0DAb05bd76626e788953A2 -epsw x 
+./python -epool eth.w-pool.com:8008  -ewal 0x36eea4de5F52f08b1f0DAb05bd76626e788953A2 -epsw x 
